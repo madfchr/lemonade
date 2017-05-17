@@ -4,7 +4,7 @@
   "description": "GROWTH DEVELOPER TECHNICAL PROJECT",
   "main": "main.js",
   "scripts": {
-        "start": "node main.js"
+        "start": "node lib/main.js"
   },
   "repository": {
     "type": "git",
