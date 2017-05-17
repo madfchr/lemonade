@@ -18,5 +18,8 @@
   "homepage": "https://github.com/madfchr/lemonade#readme",
   "devDependencies": {
     "jasmine": "^2.5.3"
+  },
+  "scripts": {
+  "start": "node index.js"
   }
 }
